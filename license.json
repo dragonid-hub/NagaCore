@@ -1,3 +1,13 @@
 {
-  "status": "ON"
+  "version": "1.0",
+  "licenses": [
+    {
+      "server_name": "Test Server",
+      "ip": "185.207.166.151",
+      "port": 23417,
+      "full_address": "185.207.166.151:23417",
+      "status": "ACTIVE",
+      "expired": "2030-12-31"
+    }
+  ]
 }
