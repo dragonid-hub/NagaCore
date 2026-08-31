@@ -3,9 +3,9 @@
   "licenses": [
     {
       "server_name": "Test Server",
-      "ip": "185.207.166.151",
-      "port": 23417,
-      "full_address": "185.207.166.151:23417",
+      "ip": "79.127.235.187",
+      "port": 19032,
+      "full_address": "79.127.235.187:19032",
       "status": "ACTIVE",
       "expired": "2030-12-31"
     }
