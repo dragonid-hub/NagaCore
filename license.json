@@ -8,6 +8,22 @@
       "full_address": "79.127.235.187:19032",
       "status": "ACTIVE",
       "expired": "2030-12-31"
+    },
+    {
+      "server_name": "MineID Host Domain",
+      "ip": "basic-4.mineidhost.icu",
+      "port": 19149,
+      "full_address": "basic-4.mineidhost.icu:19149",
+      "status": "ACTIVE",
+      "expired": "2030-12-31"
+    },
+    {
+      "server_name": "MineID Host IP",
+      "ip": "15.235.214.102",
+      "port": 19149,
+      "full_address": "15.235.214.102:19149",
+      "status": "ACTIVE",
+      "expired": "2030-12-31"
     }
   ]
 }
