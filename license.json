@@ -19,7 +19,7 @@
     },
     {
       "server_name": "MineID Host IP",
-      "ip": "15.235.214.102",
+      "ip": "sgp-medium-1.mineidhost.com:19142",
       "port": 19149,
       "full_address": "15.235.214.102:19149",
       "status": "ACTIVE",
